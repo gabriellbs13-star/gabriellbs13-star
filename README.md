@@ -1,4 +1,4 @@
-<img src="./banner-opentag" width="100%" />
+<img src="./banner-opentag.png" width="100%" />
 
 # Olá, eu sou Gabriel Lopes 👋
 
