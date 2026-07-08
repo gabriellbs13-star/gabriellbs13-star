@@ -28,7 +28,7 @@ Sou desenvolvedor focado na criação de sites institucionais, landing pages e s
 
 ### 🌐 Open Tag
 
-Site institucional da minha empresa de desenvolvimento web.
+Site institucional da minha empresa, desenvolvido para apresentar serviços de desenvolvimento web e soluções digitais.
 
 🔗 https://opentag.netlify.app
 
@@ -36,7 +36,7 @@ Site institucional da minha empresa de desenvolvimento web.
 
 ### 💅 Studio Maria Sabino
 
-Site desenvolvido para apresentação de cursos e serviços de beleza, com foco em identidade visual, experiência do usuário e apresentação profissional da marca.
+Landing page desenvolvida para o Studio Maria Sabino, com foco em apresentação de cursos, identidade visual e experiência do usuário.
 
 🔗 https://studiomariasabino.netlify.app
 
