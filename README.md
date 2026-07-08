@@ -1,3 +1,5 @@
+<img src="./banner-opentag.png" width="100%" />
+
 # Olá, eu sou Gabriel Lopes 👋
 
 💻 Desenvolvedor Web | Fundador da Open Tag
